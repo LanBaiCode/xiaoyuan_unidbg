@@ -4,24 +4,20 @@
 
 1. 下载项目
 2. 修改依赖的路径
-
-- 将依赖的路径修改为以下 JAR 包的位置
-    - [jar/unidbg-api-0.9.8-SNAPSHOT.jar](jar/unidbg-api-0.9.8-SNAPSHOT.jar)
-    - [jar/unidbg-android-0.9.8-SNAPSHOT.jar](jar/unidbg-android-0.9.8-SNAPSHOT.jar)
-- 如图所示
-    - ![image](docs/1.png)
-    - ![image](docs/2.png)
-
+    - 将依赖的路径修改为以下 JAR 包的位置
+        - [jar/unidbg-api-0.9.8-SNAPSHOT.jar](jar/unidbg-api-0.9.8-SNAPSHOT.jar)
+        - [jar/unidbg-android-0.9.8-SNAPSHOT.jar](jar/unidbg-android-0.9.8-SNAPSHOT.jar)
+    - 如图所示
+        - ![image](docs/1.png)
+        - ![image](docs/2.png)
 3. 同步 Maven
-
-- 在项目的右侧点击Maven同步按钮
-
+    - 在项目的右侧点击Maven同步按钮
 4. Run!
 
 ## 进度
+
 - 当前项目已经完成小猿口算的 Sign 生成, 但**未经测试**
-  - ![image](docs/4.png)
-    
+    - ![image](docs/4.png)
 
 ## 感谢
 
